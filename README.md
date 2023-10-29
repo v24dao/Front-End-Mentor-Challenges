@@ -6,8 +6,8 @@ This is a collection of the challenges that I have completed from [Front End Men
 
 ---
 
-##"Getting Started" Roadmap
-#####HTML and CSS only challenges to help pick up the basics.
+## "Getting Started" Roadmap
+##### HTML and CSS only challenges to help pick up the basics.
 
 - [x] 1. QR code component -- [Live link]() | [Repo]() | [Challenge]()
 - [x] 2. 3-column preview card component -- [Live link]() | [Repo]() | [Challenge]()
@@ -17,8 +17,8 @@ This is a collection of the challenges that I have completed from [Front End Men
 
 ---
 
-##"Building Responsive Layouts" Roadmap
-#####HTML and CSS challenges to help improve responsive design.
+## "Building Responsive Layouts" Roadmap
+##### HTML and CSS challenges to help improve responsive design.
 
 - [x] 1. Product Preview card component -- [Live link]() | [Repo]() | [Challenge]()
 - [x] 2. Four card feature section -- [Live link]() | [Repo]() | [Challenge]()
@@ -29,8 +29,8 @@ This is a collection of the challenges that I have completed from [Front End Men
 
 ---
 
-##"JavaScript Fundamentals" Roadmap
-#####HTML, CSS and JavaScript challenges that help with praticing: variables, data types, DOM manipulation, Events, Conditionals, Working with data(JSON and APIs).
+## "JavaScript Fundamentals" Roadmap
+##### HTML, CSS and JavaScript challenges that help with praticing: variables, data types, DOM manipulation, Events, Conditionals, Working with data(JSON and APIs).
 
 - [ ] 1. Ping single column coming soon page -- [Live link]() | [Repo]() | [Challenge]()
 - [ ] 2. Interactive rating component -- [Live link]() | [Repo]() | [Challenge]()
@@ -42,9 +42,9 @@ This is a collection of the challenges that I have completed from [Front End Men
 
 ---
 
-##Other Challenges
+## Other Challenges
 
-#####These are challenges that I have completed (or plan to complete), which are not in one of the roadmaps listed above.
+##### These are challenges that I have completed (or plan to complete), which are not in one of the roadmaps listed above.
 
 - [ ] 1. XXX -- [Live link]() | [Repo]() | [Challenge]()
 - [ ] 2. XXX -- [Live link]() | [Repo]() | [Challenge]()
