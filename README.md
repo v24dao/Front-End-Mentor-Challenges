@@ -9,11 +9,11 @@ This is a collection of the challenges that I have completed from [Front End Men
 ## "Getting Started" Roadmap
 ##### HTML and CSS only challenges to help pick up the basics.
 
-- [x] 1. QR code component -- [Live link]() | [Repo]() | [Challenge]()
-- [x] 2. 3-column preview card component -- [Live link]() | [Repo]() | [Challenge]()
-- [x] 3. Single price grid component -- [Live link]() | [Repo]() | [Challenge]()
-- [x] 4. Order Summary component -- [Live link]() | [Repo]() | [Challenge]()
-- [x] 5. Stats preview card component -- [Live link]() | [Repo]() | [Challenge]()
+- [x] 1. QR code component -- [Live link]() | [Repo]() | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H?ref=challenge-roadmap)
+- [x] 2. 3-column preview card component -- [Live link]() | [Repo]() | [Challenge](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-?ref=challenge-roadmap)
+- [x] 3. Single price grid component -- [Live link]() | [Repo]() | [Challenge](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc?ref=challenge-roadmap)
+- [x] 4. Order Summary component -- [Live link]() | [Repo]() | [Challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj?ref=challenge-roadmap)
+- [x] 5. Stats preview card component -- [Live link]() | [Repo]() | [Challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62?ref=challenge-roadmap)
 
 ---
 
