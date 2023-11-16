@@ -1,6 +1,6 @@
 # Front End Mentor Challenges
 
-This is a collection of the challenges that I have completed from [Front End Mentor](https://www.frontendmentor.io/), an online resource for practising HTML, CSS & JavaScript.
+This is a collection of all the challenges that I have completed from [Front End Mentor](https://www.frontendmentor.io/), an online resource for practising HTML, CSS & JavaScript.
 
 **Note: Links will be updated for the completed challenges once I've uploaded them all to GitHub!**
 
